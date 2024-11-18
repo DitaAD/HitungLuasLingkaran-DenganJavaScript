@@ -13,7 +13,6 @@ Proyek ini adalah aplikasi sederhana berbasis web untuk menghitung luas lingkara
 
 - **HTML**: Untuk struktur halaman web.
 - **JavaScript**: Untuk logika perhitungan dan interaktivitas.
-- **CSS (Opsional)**: Untuk styling halaman, meskipun proyek ini tidak memerlukan desain yang rumit.
 
 ## Cara Menggunakan
 
